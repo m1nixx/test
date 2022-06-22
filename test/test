@@ -1,9 +1,9 @@
 git.txt
 
-	[Working Directory] 				[Staging Area] 				[Local Repository]			[Remote Repository] 
-	PC에서 저장되는 작업공간		 commit하기 전 저장공간		  PC에 있는 git의 저장공간		 원격 저장소(github)
+	[Working Directory] 		[Staging Area] 			[Local Repository]		[Remote Repository] 
+	PC에서 저장되는 작업공간		 commit하기 전 저장공간	PC에 있는 git의 저장공간	 원격 저장소(github)
 	 1) git init(깃 저장소 생성)
-						 2) git add						3)git commit					4)git push
+			 2) git add		3)git commit					4)git push
 
 
 	<------------------------------------------------git clone----------------------------------------------------
